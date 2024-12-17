@@ -1,0 +1,10 @@
+C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.exe.config
+C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.exe
+C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.pdb
+C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.AssemblyReference.cache
+C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.Form1.resources
+C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.Properties.Resources.resources
+C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.GenerateResource.cache
+C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.CoreCompileInputs.cache
+C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.exe
+C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.pdb
