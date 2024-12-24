@@ -8,3 +8,6 @@ C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\
 C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.CoreCompileInputs.cache
 C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.exe
 C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.pdb
+C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\Dapper.dll
+C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\Dapper.xml
+C:\Users\nazli\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEg.1578513C.Up2Date

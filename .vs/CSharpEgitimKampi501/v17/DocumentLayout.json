@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\users\\nazli\\source\\repos\\csharpegitimkampi501\\csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\users\\nazli\\source\\repos\\csharpegitimkampi501\\csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\users\\nazli\\source\\repos\\csharpegitimkampi501\\csharpegitimkampi501\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\users\\nazli\\source\\repos\\csharpegitimkampi501\\csharpegitimkampi501\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\users\\nazli\\source\\repos\\csharpegitimkampi501\\csharpegitimkampi501\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\users\\nazli\\source\\repos\\csharpegitimkampi501\\csharpegitimkampi501\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\csharpegitimkampi501\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|c:\\users\\nazli\\source\\repos\\csharpegitimkampi501\\csharpegitimkampi501\\dtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67390C0F-06EE-44AA-AC32-97D35A1B7283}|CSharpEgitimKampi501\\CSharpEgitimKampi501.csproj|solutionrelative:csharpegitimkampi501\\dtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Form1.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Form1.cs",
+              "ToolTip": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Form1.cs",
+              "RelativeToolTip": "CSharpEgitimKampi501\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:52:57.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Repositories\\ProductRepository.cs",
@@ -62,72 +63,18 @@
               "RelativeToolTip": "CSharpEgitimKampi501\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T11:55:00.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "CSharpEgitimKampi501\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T11:49:43.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Dtos\\UpdateProductDto.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Dtos\\UpdateProductDto.cs",
-              "ToolTip": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Dtos\\UpdateProductDto.cs",
-              "RelativeToolTip": "CSharpEgitimKampi501\\Dtos\\UpdateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T11:36:12.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T11:55:00.128Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Dtos\\CreateProductDto.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Dtos\\CreateProductDto.cs",
-              "ToolTip": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Dtos\\CreateProductDto.cs",
-              "RelativeToolTip": "CSharpEgitimKampi501\\Dtos\\CreateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T11:34:56.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResultProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Dtos\\ResultProductDto.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Dtos\\ResultProductDto.cs",
-              "ToolTip": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Dtos\\ResultProductDto.cs",
-              "RelativeToolTip": "CSharpEgitimKampi501\\Dtos\\ResultProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T11:32:34.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Form1.cs",
               "RelativeDocumentMoniker": "CSharpEgitimKampi501\\Form1.cs",
               "ToolTip": "C:\\Users\\nazli\\source\\repos\\CSharpEgitimKampi501\\CSharpEgitimKampi501\\Form1.cs [Design]",
               "RelativeToolTip": "CSharpEgitimKampi501\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T11:23:29.467Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-17T11:23:29.467Z"
             }
           ]
         }
